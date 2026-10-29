@@ -13,4 +13,10 @@ En el siguiente respotiorio se pretende enseñar a nuevos alumnos, o personas qu
 2. VsCode
 3. Git
 
-# Publicacion #
+## Publicacion ##
+
+## Estructura Del Proyecto ##
+
+proyecto-examen/ <br>
+|-- aprende-python-hadane-aymen/ <br>
+|-- aprende-python-fork
